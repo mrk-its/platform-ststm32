@@ -294,6 +294,12 @@
       "owner": "platformio",
       "version": "~1.5.1"
     },
+    "framework-stm32cubeu5": {
+      "type": "framework",
+      "optional": true,
+      "owner": "platformio",
+      "version": "https://github.com/mrk-its/STM32CubeU5"
+    },
     "framework-zephyr": {
       "type": "framework",
       "optional": true,
