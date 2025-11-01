@@ -322,7 +322,7 @@
       "type": "uploader",
       "optional": true,
       "owner": "platformio",
-      "version": "https://github.com/mrk-its/tool-openocd#ver_0_12_0_6"
+      "version": "https://github.com/mrk-its/tool-openocd#ver_0_12_0_patched"
     },
     "tool-jlink": {
       "type": "uploader",
